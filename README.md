@@ -1,2 +1,2 @@
 # Qiime2
-Folder that contains the script with format (Jupyter notebook) from Qiime2 tutorials for windows subsystem for linux
+Folder that contains the script in Jupyter notebook for Qiime2 tutorials for windows subsystem for linux
